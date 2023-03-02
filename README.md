@@ -1,4 +1,5 @@
 # Panóptico de Twitch v0.1.0
+![image](https://user-images.githubusercontent.com/108950915/222420665-1cbd650b-69cc-462f-acea-a53d161386f7.png)
 Script de chat-scrapping o minería de texto basada en API para la plataforma de streaming Twitch.tv, ejecutable a través de la máquina virtual de Google Colab a través de: https://drive.google.com/file/d/1XiJ9mDe6EcDp5lYHilbDIABkYlHJPD-A/view?usp=sharing
 
 ## Descripción
